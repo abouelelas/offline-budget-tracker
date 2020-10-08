@@ -16,3 +16,5 @@ When brought back online offline entries should be added to tracker.
   * (Heroku link)[https://ancient-cove-81177.herokuapp.com/]
 
   * (Github link)[https://github.com/abouelelas/offline-budget-tracker]
+
+  * ![Screenshot](https://github.com/abouelelas/offline-budget-tracker/blob/master/public/assets/SSBudget-tracker.png)
